@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // ⚙️ CONFIGURE YOUR BACKEND URL HERE
 // Change this to match your Python backend URL
-const API_BASE_URL = 'https://ai-chatbot-4fvq.onrender.com';
+const API_BASE_URL = 'https://ai-bot-lac-three.vercel.app';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
